@@ -1,6 +1,8 @@
 # W101TeleportTrainer
 An external hack that attaches to the Wizard101 game and allows you to quest faster.
 
+Please keep in mind that this cheat IS BANNABLE, and is only meant to showcase memory read/write via C++. Do not use this software for any unfair advantage playing Wizard101.
+
 ## How to Run
 ### No Installer
 Navigate to /exe/WizUtility/ and run WizUtility.exe
