@@ -1,5 +1,5 @@
 # W101TeleportTrainer
-An external hack that attaches to the Wizard101 game and changes your coordinates to whatever you input.
+An external hack that attaches to the Wizard101 game and allows you to quest faster.
 
 ## How to Run
 ### No Installer
